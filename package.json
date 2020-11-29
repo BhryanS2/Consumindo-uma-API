@@ -1,13 +1,16 @@
 {
-  "name": "Consumindo uma API",
+  "name": "api",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "BhryanS2 <64044982+BhryanS2@users.noreply.github.com>",
+  "author": "BhryanS2",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
   }
 }
