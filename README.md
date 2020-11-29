@@ -10,5 +10,16 @@ criar uma api
 - [ ] Habilitar o cors
 - [ ] Habilitar o nodemon
 
-## Font-end
+## Fontend
 Consumir a API
+
+- [ ] Utilizar fetch para consumir a API 
+- [ ] Usar async/await
+- [ ] usar try/catch
+- [ ] mostrar resposnata na tela
+
+## Backend
+Cosumir APi
+- [ ] jsnplaceholder
+- [ ] usar axios
+- [ ] usar try/catch
