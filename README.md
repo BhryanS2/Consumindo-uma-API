@@ -20,6 +20,6 @@ Consumir a API
 
 ## Backend
 Cosumir APi
-- [ ] jsnplaceholder
+- [ ] jsnplaceholder (http://jsonplaceholder.typicode.com/users)
 - [ ] usar axios
 - [ ] usar try/catch
